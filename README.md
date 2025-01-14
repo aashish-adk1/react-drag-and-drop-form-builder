@@ -1,76 +1,61 @@
-# Demo 
-https://www.youtube.com/watch?v=d3CqC1PwZRQ&t=39s
+#Vrit Technologies Task C
+<br>
+<h2>Setup Instructions</h2>
+<br>
+<h3>Prerequisites</h3>
+<br>
+<ul>
+  <li>node.js</li>
+  <li>npm or yarn</li>
+  <li></li>
+</ul>
+<br>
+<h3>Installation</h3>
+<br>
+<ol>
+  <li>Clone the repository.</li>
+  <li>Navigate to the project directory.</li>
+  <li>Install dependencies.</li>
+</ol>
+<br>
+<h3>Running the Application</h3>
+<br>
+<ol>
+  <li>Start the development server.</li>
+  <li>Open your browser and navigate to http://localhost:3000 to access the application.</li>
+</ol>
+<br>
+<h3>Technology Choices and Rationale</h3>
+<br>
+<ol>
+  <li>React.</li>
+  <li>Form Builder Library.</li>
+  <li> Tailwind CSS.</li>
+</ol>
+<br>
+<h3>Known Limitations and Trade-offs</h3>
+<br>
+<ol>
+  <li>No Preview Feature.</li>
+  <li>No Predefined Form Templates.</li>
+  <li>Dependency on Form Builder Library.</li>
+  <li>Performance on Large Forms.</li>
+</ol>
+<br>
+<h3>Future Improvements</h3>
+<br>
+<ol>
+  <li>Preview Feature.</li>
+  <li>Predefined Form Templates.</li>
+  <li>Enhanced Field Customization.</li>
+  <li>Improved Accessibility.</li>
+  <li>Form Export Options.</li>
+</ol>
 
-# Read more :
-https://www.interviewsolutionshub.com/blog/drag-drop-form-builder-in-reactjs
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br>
+<br>
+<br>
+<br>
+<p>Thank you for considering my application for the Frontend Intern position at Vrit Technologies. Working on this React project as part of the evaluation task has been an enriching experience, allowing me to explore various concepts and tools in a practical setting. This task not only helped me demonstrate my current knowledge but also motivated me to learn and grow further. I am confident that, with the guidance of the talented professionals at Vrit Technologies, I can enhance my skills and contribute to building impactful applications in the future.</p>
+<br>
+<h2>Author-Aashish Adhikari</h2>
