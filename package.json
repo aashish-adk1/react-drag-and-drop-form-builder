@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/aashish-adk1/vrit-technologies-Task-C.git",
   "name": "vrit-technologies-task-c",
   "version": "0.1.0",
   "private": true,
@@ -22,7 +23,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:css": "tailwindcss build tailwind.css -o styles.css",
-    "watch:css": "tailwindcss build tailwind.css -o styles.css --watch"
+    "watch:css": "tailwindcss build tailwind.css -o styles.css --watch",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +47,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.17",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1"
   }
