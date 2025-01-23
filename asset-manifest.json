@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aashish-adk1/vrit-technologies-Task-C/static/css/main.99e90926.css",
-    "main.js": "/aashish-adk1/vrit-technologies-Task-C/static/js/main.d5ee744e.js",
-    "index.html": "/aashish-adk1/vrit-technologies-Task-C/index.html",
-    "main.99e90926.css.map": "/aashish-adk1/vrit-technologies-Task-C/static/css/main.99e90926.css.map",
-    "main.d5ee744e.js.map": "/aashish-adk1/vrit-technologies-Task-C/static/js/main.d5ee744e.js.map"
+    "main.css": "/vrit-technologies-Task-C/static/css/main.99e90926.css",
+    "main.js": "/vrit-technologies-Task-C/static/js/main.d5ee744e.js",
+    "index.html": "/vrit-technologies-Task-C/index.html",
+    "main.99e90926.css.map": "/vrit-technologies-Task-C/static/css/main.99e90926.css.map",
+    "main.d5ee744e.js.map": "/vrit-technologies-Task-C/static/js/main.d5ee744e.js.map"
   },
   "entrypoints": [
     "static/css/main.99e90926.css",
