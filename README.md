@@ -58,6 +58,6 @@ https://drive.google.com/file/d/16hCOloEbKsIDYoJL17ljl3m9xETD5iJw/view?usp=shari
 <br>
 <br>
 <br>
-<p>Thank you for considering my application for the Frontend Intern position at Vrit Technologies. Working on this React project as part of the evaluation task has been an enriching experience, allowing me to explore various concepts and tools in a practical setting. This task not only helped me demonstrate my current knowledge but also motivated me to learn and grow further. I am confident that, with the guidance of the talented professionals at Vrit Technologies, I can enhance my skills and contribute to building impactful applications in the future.</p>
+
 <br>
 <h2>Author-Aashish Adhikari</h2>
